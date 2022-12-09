@@ -24,3 +24,5 @@ int main(){
     cout << "#Odd numbers = " << Oddnumber;
     return 0;
 }
+
+//Kong 650612077
